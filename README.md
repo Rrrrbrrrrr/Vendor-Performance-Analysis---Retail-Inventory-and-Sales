@@ -20,8 +20,8 @@ vendor-performance-analysis - Retail Inventory & Sales/
 ├── notebooks/ # Jupyter notebooks for EDA
 ├── scripts/ # Python scripts for data processing
 ├── images/ # Dashboard files and screenshots
-│ ├── PowerBI_dashboard.png
-│ ├── vendor_analysis_dashboard.pbix
+│     ├── PowerBI_dashboard.png
+│     ├── vendor_analysis_dashboard.pbix
 ├── README.md
 
 
