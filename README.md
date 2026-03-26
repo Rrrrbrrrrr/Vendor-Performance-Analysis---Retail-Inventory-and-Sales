@@ -7,7 +7,7 @@ The goal is to support better procurement decisions and optimize vendor selectio
 ## 📊 Dashboards & Visualizations
 
 ### 1. Home Dashboard
-![Home Dashboard](images/PowerBi_dashboard.png)
+![Vendor Performance Dashboard](images/PowerBi_Dashboard.png)
 ---
 
 ## 🛠️ Tools & Technologies
