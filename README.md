@@ -14,20 +14,27 @@ The goal is to support better procurement decisions and optimize vendor selectio
 ---
 
 ## 📂 Project Structure
-vendor-performance-analysis - Retail Inventory & Sales/
-  data/ # Cleaned dataset used for analysis
-     vendor_sales_summary.csv
-  images/ # Dashboard files and screenshots
-     vendor_analysis_dashboard.pbix
-     PowerBI_dashboard.png
-  notebooks/ # Jupyter notebooks for EDA
-     Exploratory Data Analysis.ipnyb # EDA using SQL
-     Vendor Performance Analysi.ipnyb # vendor eda using python
-  scripts/ # Python scripts for data processing
-     get_vendor_summary.py
-     ingestion_db.py
 
- README.md
+```
+vendor-performance-analysis - Retail Inventory & Sales/
+│
+├── data/                         # Cleaned dataset used for analysis
+│   └── vendor_sales_summary.csv
+│
+├── images/                       # Dashboard files and screenshots
+│   ├── vendor_analysis_dashboard.pbix
+│   └── PowerBI_dashboard.png
+│
+├── notebooks/                    # Jupyter notebooks for EDA
+│   ├── Exploratory Data Analysis.ipynb
+│   └── Vendor Performance Analysis.ipynb
+│
+├── scripts/                      # Python scripts for data processing
+│   ├── get_vendor_summary.py
+│   └── ingestion_db.py
+│
+└── README.md
+```
 
 
 ---
