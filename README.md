@@ -4,6 +4,10 @@
 This project analyzes vendor performance using sales and purchase data to identify high-performing and low-performing vendors. 
 The goal is to support better procurement decisions and optimize vendor selection.
 
+## 📊 Dashboards & Visualizations
+
+### 1. Home Dashboard
+![Home Dashboard](images/PowerBi_dashboard.png)
 ---
 
 ## 🛠️ Tools & Technologies
