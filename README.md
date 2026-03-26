@@ -18,18 +18,18 @@ The goal is to support better procurement decisions and optimize vendor selectio
 ```
 vendor-performance-analysis - Retail Inventory & Sales/
 │
-├── data/                         # Cleaned dataset used for analysis
+├── data/
 │   └── vendor_sales_summary.csv
 │
-├── images/                       # Dashboard files and screenshots
+├── images/
 │   ├── vendor_analysis_dashboard.pbix
 │   └── PowerBI_dashboard.png
 │
-├── notebooks/                    # Jupyter notebooks for EDA
+├── notebooks/
 │   ├── Exploratory Data Analysis.ipynb
 │   └── Vendor Performance Analysis.ipynb
 │
-├── scripts/                      # Python scripts for data processing
+├── scripts/
 │   ├── get_vendor_summary.py
 │   └── ingestion_db.py
 │
